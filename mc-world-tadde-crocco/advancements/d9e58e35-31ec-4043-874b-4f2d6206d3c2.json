@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-03-29 03:14:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-03-28 00:56:01 +0100"
@@ -677,6 +683,15 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-03-28 00:17:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2020-03-29 03:18:17 +0200",
+      "iron_chestplate": "2020-03-29 03:18:17 +0200",
+      "iron_leggings": "2020-03-29 03:18:17 +0200",
+      "iron_helmet": "2020-03-29 03:18:17 +0200"
     },
     "done": true
   },
@@ -1003,6 +1018,7 @@
       "minecraft:skeleton": "2020-03-27 21:09:26 +0100",
       "minecraft:spider": "2020-03-25 23:41:38 +0100",
       "minecraft:creeper": "2020-03-27 21:03:54 +0100",
+      "minecraft:cave_spider": "2020-03-28 15:30:50 +0100",
       "minecraft:silverfish": "2020-03-28 00:15:03 +0100",
       "minecraft:zombie": "2020-03-25 23:24:16 +0100",
       "minecraft:drowned": "2020-03-26 00:28:58 +0100"
@@ -1054,6 +1070,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-27 21:27:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-03-29 03:14:34 +0200"
     },
     "done": true
   },
@@ -1945,6 +1967,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-25 21:59:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-29 03:16:50 +0200"
     },
     "done": true
   },

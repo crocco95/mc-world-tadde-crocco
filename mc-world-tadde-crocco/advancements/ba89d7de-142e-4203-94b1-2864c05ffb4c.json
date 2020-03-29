@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-03-28 11:29:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-03-25 21:52:52 +0100"
@@ -920,8 +926,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-03-25 23:54:01 +0100",
+      "minecraft:cave_spider": "2020-03-29 03:08:03 +0200",
       "minecraft:silverfish": "2020-03-28 00:15:42 +0100",
-      "minecraft:zombie": "2020-03-25 21:58:43 +0100"
+      "minecraft:enderman": "2020-03-28 21:24:35 +0100",
+      "minecraft:zombie": "2020-03-25 21:58:43 +0100",
+      "minecraft:drowned": "2020-03-28 14:42:13 +0100"
     },
     "done": false
   },
