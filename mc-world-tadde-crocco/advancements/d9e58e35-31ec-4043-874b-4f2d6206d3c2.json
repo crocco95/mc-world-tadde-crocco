@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-03-29 21:18:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-03-25 22:24:24 +0100"
@@ -422,6 +428,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2020-03-25 21:58:22 +0100",
+      "cooked_beef": "2020-03-29 18:26:57 +0200",
       "bread": "2020-03-27 21:02:15 +0100",
       "rotten_flesh": "2020-03-25 22:44:01 +0100",
       "carrot": "2020-03-28 00:31:40 +0100"
@@ -1340,6 +1347,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-03-25 22:18:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-03-29 21:18:28 +0200"
     },
     "done": true
   },
