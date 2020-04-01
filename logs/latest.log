@@ -1,8 +1,10 @@
-[20:28:27] [User Authenticator #25/INFO]: UUID of player PinguJet is 68b6764a-9eea-4983-8443-35a39c355af4
-[20:28:27] [Server thread/INFO]: PinguJet[/79.12.246.12:50679] logged in with entity id 92532 at (-4.30000001192093, 57.0, -95.11286548507704)
-[20:28:27] [Server thread/INFO]: PinguJet joined the game
-[21:40:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4157ms or 83 ticks behind
-[21:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
-[21:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
-[22:33:38] [Server thread/INFO]: PinguJet lost connection: Disconnected
-[22:33:38] [Server thread/INFO]: PinguJet left the game
+[20:54:37] [User Authenticator #26/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
+[20:54:37] [Server thread/INFO]: SuperCrocco[/93.40.208.101:5463] logged in with entity id 111613 at (-31.94999998807907, 68.0, -38.05000001192093)
+[20:54:37] [Server thread/INFO]: SuperCrocco joined the game
+[21:06:52] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
+[21:06:52] [Server thread/INFO]: SuperCrocco left the game
+[22:30:19] [User Authenticator #27/INFO]: UUID of player PinguJet is 68b6764a-9eea-4983-8443-35a39c355af4
+[22:30:20] [Server thread/INFO]: PinguJet[/79.12.246.12:53100] logged in with entity id 113473 at (4.71693942621402, 64.0, -50.71381360560211)
+[22:30:20] [Server thread/INFO]: PinguJet joined the game
+[22:38:02] [Server thread/INFO]: PinguJet lost connection: Disconnected
+[22:38:02] [Server thread/INFO]: PinguJet left the game
