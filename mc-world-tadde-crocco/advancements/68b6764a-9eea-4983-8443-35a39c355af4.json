@@ -418,6 +418,7 @@
       "cooked_porkchop": "2020-03-27 19:26:17 +0100",
       "sweet_berries": "2020-03-29 17:58:58 +0200",
       "beef": "2020-03-25 22:55:11 +0100",
+      "baked_potato": "2020-04-04 23:18:40 +0200",
       "porkchop": "2020-03-25 23:03:53 +0100",
       "apple": "2020-03-25 22:57:47 +0100",
       "potato": "2020-03-25 23:16:57 +0100",
@@ -1880,6 +1881,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-30 20:40:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-04-04 23:16:49 +0200"
     },
     "done": true
   },
