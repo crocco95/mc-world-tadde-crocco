@@ -1,11 +1,2 @@
-[00:09:30] [User Authenticator #33/INFO]: UUID of player PinguJet is 68b6764a-9eea-4983-8443-35a39c355af4
-[00:09:30] [Server thread/INFO]: PinguJet[/80.104.88.72:64974] logged in with entity id 125596 at (0.1462161485220524, 64.0, -48.5735313009764)
-[00:09:30] [Server thread/INFO]: PinguJet joined the game
-[00:18:28] [Server thread/INFO]: PinguJet has made the advancement [We Need to Go Deeper]
-[00:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
-[00:25:21] [Server thread/WARN]: PinguJet moved too quickly! -10.20837211813631,1.0013359791121417,-0.9187088563750763
-[00:25:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
-[00:26:37] [Server thread/WARN]: PinguJet moved too quickly! -5.715207166273672,0.0,-8.285735187731063
-[00:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21368ms or 427 ticks behind
-[00:34:21] [Server thread/INFO]: PinguJet lost connection: Disconnected
-[00:34:21] [Server thread/INFO]: PinguJet left the game
+[00:25:57] [Server thread/INFO]: Lorenzo_Ricci lost connection: Disconnected
+[00:25:57] [Server thread/INFO]: Lorenzo_Ricci left the game
