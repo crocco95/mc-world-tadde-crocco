@@ -374,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-20 18:59:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-25 22:25:29 +0100"
@@ -1506,6 +1512,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-04-20 19:50:59 +0200",
       "sweet_berries": "2020-03-25 21:58:22 +0100",
       "cooked_beef": "2020-03-29 18:26:57 +0200",
       "baked_potato": "2020-04-06 23:07:47 +0200",
