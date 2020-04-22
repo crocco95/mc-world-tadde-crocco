@@ -1,22 +1,5 @@
-[18:53:53] [User Authenticator #51/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
-[18:53:53] [Server thread/INFO]: SuperCrocco[/93.40.208.101:13063] logged in with entity id 242470 at (30.389688959361465, 68.0, -32.93829458595917)
-[18:53:53] [Server thread/INFO]: SuperCrocco joined the game
-[18:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4452ms or 89 ticks behind
-[18:59:13] [Server thread/INFO]: SuperCrocco has completed the challenge [Return to Sender]
-[19:09:02] [Server thread/INFO]: SuperCrocco fell from a high place
-[19:09:23] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
-[19:09:23] [Server thread/INFO]: SuperCrocco left the game
-[19:09:26] [User Authenticator #52/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
-[19:09:26] [Server thread/INFO]: SuperCrocco[/93.40.208.101:12418] logged in with entity id 245024 at (10.5, 64.0000002, -51.5)
-[19:09:26] [Server thread/INFO]: SuperCrocco joined the game
-[19:43:56] [Server thread/WARN]: SuperCrocco moved wrongly!
-[19:47:56] [Server thread/INFO]: SuperCrocco burned to death
-[19:48:04] [Server thread/WARN]: SuperCrocco moved wrongly!
-[19:54:51] [Server thread/INFO]: SuperCrocco was shot by Skeleton
-[19:54:56] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
-[19:54:56] [Server thread/INFO]: SuperCrocco left the game
-[21:32:39] [User Authenticator #53/INFO]: UUID of player Kasumi__94 is ba89d7de-142e-4203-94b1-2864c05ffb4c
-[21:32:40] [Server thread/INFO]: Kasumi__94[/87.11.242.39:52821] logged in with entity id 253093 at (175.29931622975906, 26.0, 27.354909976898583)
-[21:32:40] [Server thread/INFO]: Kasumi__94 joined the game
-[21:33:34] [Server thread/INFO]: Kasumi__94 lost connection: Disconnected
-[21:33:34] [Server thread/INFO]: Kasumi__94 left the game
+[01:09:42] [User Authenticator #54/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
+[01:09:42] [Server thread/INFO]: SuperCrocco[/93.40.208.101:12697] logged in with entity id 253315 at (10.5, 64.0000002, -51.5)
+[01:09:42] [Server thread/INFO]: SuperCrocco joined the game
+[01:10:17] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
+[01:10:17] [Server thread/INFO]: SuperCrocco left the game
