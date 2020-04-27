@@ -1,27 +1,2 @@
-[00:03:23] [Server thread/INFO]: Lorenzo_Ricci was shot by Skeleton
-[00:03:58] [Server thread/INFO]: Lorenzo_Ricci was shot by Skeleton
-[00:09:29] [User Authenticator #59/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
-[00:09:29] [Server thread/INFO]: SuperCrocco[/93.40.208.101:12290] logged in with entity id 274754 at (6.493344544359318, 64.0, -48.228093395951184)
-[00:09:29] [Server thread/INFO]: SuperCrocco joined the game
-[00:14:39] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
-[00:14:39] [Server thread/INFO]: SuperCrocco left the game
-[00:15:06] [User Authenticator #60/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
-[00:15:06] [Server thread/INFO]: SuperCrocco[/93.40.208.101:12414] logged in with entity id 275560 at (-0.2653949909309419, 56.9375, -60.11367495081899)
-[00:15:06] [Server thread/INFO]: SuperCrocco joined the game
-[00:29:54] [User Authenticator #61/INFO]: UUID of player PinguJet is 68b6764a-9eea-4983-8443-35a39c355af4
-[00:29:54] [Server thread/INFO]: PinguJet[/80.104.88.72:51693] logged in with entity id 277705 at (2.230915122911074, 64.0, -48.50731417724745)
-[00:29:54] [Server thread/INFO]: PinguJet joined the game
-[00:31:28] [Server thread/INFO]: Lorenzo_Ricci fell from a high place
-[00:46:12] [Server thread/INFO]: Lorenzo_Ricci burned to death
-[01:05:55] [Server thread/INFO]: PinguJet lost connection: Disconnected
-[01:05:55] [Server thread/INFO]: PinguJet left the game
-[01:23:42] [Server thread/INFO]: Lorenzo_Ricci was blown up by Creeper
-[01:57:44] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
-[01:57:44] [Server thread/INFO]: SuperCrocco left the game
-[01:58:24] [Server thread/INFO]: Lorenzo_Ricci lost connection: Disconnected
-[01:58:24] [Server thread/INFO]: Lorenzo_Ricci left the game
-[20:55:22] [User Authenticator #62/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
-[20:55:22] [Server thread/INFO]: SuperCrocco[/93.40.208.101:12743] logged in with entity id 291671 at (-8.3003956784563, 64.0, 10.516405214592211)
-[20:55:22] [Server thread/INFO]: SuperCrocco joined the game
-[21:01:50] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
-[21:01:50] [Server thread/INFO]: SuperCrocco left the game
+[00:08:31] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
+[00:08:31] [Server thread/INFO]: SuperCrocco left the game
