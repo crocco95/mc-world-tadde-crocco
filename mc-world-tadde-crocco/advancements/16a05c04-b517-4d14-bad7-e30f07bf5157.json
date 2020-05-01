@@ -507,12 +507,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-05-01 01:41:25 +0200",
       "minecraft:skeleton": "2020-03-25 22:00:43 +0100",
       "minecraft:spider": "2020-03-25 22:06:31 +0100",
       "minecraft:creeper": "2020-04-09 22:00:46 +0200",
       "minecraft:wither_skeleton": "2020-04-09 22:53:05 +0200",
       "minecraft:silverfish": "2020-03-28 00:38:47 +0100",
-      "minecraft:zombie": "2020-03-25 22:04:26 +0100"
+      "minecraft:zombie": "2020-03-25 22:04:26 +0100",
+      "minecraft:drowned": "2020-05-01 01:43:54 +0200"
     },
     "done": false
   },
@@ -585,6 +587,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-25 22:49:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-05-01 01:55:46 +0200"
     },
     "done": true
   },
