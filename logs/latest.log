@@ -1,9 +1,15 @@
-[14:23:20] [User Authenticator #10/INFO]: UUID of player Lorenzo_Ricci is 16a05c04-b517-4d14-bad7-e30f07bf5157
-[14:23:20] [Server thread/INFO]: Lorenzo_Ricci[/93.40.209.133:37307] logged in with entity id 68121 at (6.225559266116747, 63.0, 43.210549487403995)
-[14:23:20] [Server thread/INFO]: Lorenzo_Ricci joined the game
-[14:28:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=25, y=65, z=7} fk{x=27, y=65, z=7}
-[14:28:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=25, y=65, z=7} fk{x=27, y=65, z=7}
-[14:28:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=25, y=65, z=7} fk{x=27, y=65, z=7}
-[14:28:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=25, y=65, z=7} fk{x=27, y=65, z=7}
-[17:09:03] [Server thread/INFO]: Lorenzo_Ricci lost connection: Disconnected
-[17:09:03] [Server thread/INFO]: Lorenzo_Ricci left the game
+[21:53:32] [User Authenticator #11/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
+[21:53:32] [Server thread/INFO]: SuperCrocco[/93.40.208.101:28258] logged in with entity id 89160 at (6.669171314410472, 64.0, -47.34472755842287)
+[21:53:32] [Server thread/INFO]: SuperCrocco joined the game
+[22:04:01] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
+[22:04:01] [Server thread/INFO]: SuperCrocco left the game
+[22:13:38] [User Authenticator #12/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
+[22:13:38] [Server thread/INFO]: SuperCrocco[/93.40.208.101:28473] logged in with entity id 90503 at (1.5152712598276432, 64.0, -48.28198410654039)
+[22:13:38] [Server thread/INFO]: SuperCrocco joined the game
+[22:24:25] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
+[22:24:25] [Server thread/INFO]: SuperCrocco left the game
+[22:30:42] [User Authenticator #13/INFO]: UUID of player SuperCrocco is d9e58e35-31ec-4043-874b-4f2d6206d3c2
+[22:30:43] [Server thread/INFO]: SuperCrocco[/93.40.208.101:28626] logged in with entity id 91835 at (-1.90778205348813, 82.0, 4.791603768179373)
+[22:30:43] [Server thread/INFO]: SuperCrocco joined the game
+[23:19:41] [Server thread/INFO]: SuperCrocco lost connection: Disconnected
+[23:19:41] [Server thread/INFO]: SuperCrocco left the game
